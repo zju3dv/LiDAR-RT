@@ -1,6 +1,6 @@
 # LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation
 
-### [Project Page](https://zju3dv.github.io/LiDAR-RT) | [Paper](linkholder) | [Arxiv](https://arxiv.org/abs/xxxxx)
+### [Project Page](https://zju3dv.github.io/lidar-rt) | [Paper](linkholder) | [Arxiv](https://arxiv.org/abs/xxxxx)
 
 <!-- ![python](https://img.shields.io/github/languages/top/zju3dv/LiDAR-RT)
 ![star](https://img.shields.io/github/stars/zju3dv/LiDAR-RT)
