@@ -6,19 +6,15 @@
 ![star](https://img.shields.io/github/stars/zju3dv/LiDAR-RT)
 [![license](https://img.shields.io/badge/license-zju3dv-white)](LICENSE)
 
-> LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation
+> LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 > [Chenxu Zhou*](https://github.com/cxzhou35), [Lvchang Fu*](https://github.com/lllcccfff), [Sida Peng](https://pengsida.net/), [Yunzhi Yan](https://yunzhiy.github.io/), [Zhanhua Zhang](https://zju3dv.github.io/lidar-rt), [Yong Chen](https://zju3dv.github.io/lidar-rt), [Jiazhi Xia](https://www.xiajiazhi.com/), [Xiaowei Zhou](https://xzhou.me)
 > Arxiv 2024
 
-<p align="center">
-    <img src="assets/teaser.png />
-</p>
+![teaser](assets/teaser.png)
 
 ### Pipeline
 
-<p align="center">
-    <img src="assets/pipeline.png />
-</p>
+![pipeline](assets/pipeline.png)
 
 ### Codes
 
