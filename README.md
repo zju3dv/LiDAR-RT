@@ -20,6 +20,15 @@
 
 🥳 Stay tuned for the release of the code.
 
+### Acknowledgments
+
+This work is built upon the following codes, we would like to acknowledge these great works.
+
+- [EnvGS: Modeling View-Dependent Appearance with Environment Gaussian](https://github.com/zju3dv/EnvGS)
+- [Street Gaussians: Modeling Dynamic Urban Scenes with Gaussian Splatting](https://github.com/zju3dv/street_gaussians)
+- [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/)
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://github.com/graphdeco-inria/gaussian-splatting)
+
 ### Citation
 
 If you find this code useful for your research, please use the following BibTeX entry.
