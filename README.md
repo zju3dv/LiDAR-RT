@@ -8,9 +8,13 @@
 
 > LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation<br>
 > [Chenxu Zhou*](https://github.com/cxzhou35), [Lvchang Fu*](https://github.com/lllcccfff), [Sida Peng](https://pengsida.net/), [Yunzhi Yan](https://yunzhiy.github.io/), [Zhanhua Zhang](https://zju3dv.github.io/lidar-rt), [Yong Chen](https://zju3dv.github.io/lidar-rt), [Jiazhi Xia](https://www.xiajiazhi.com/), [Xiaowei Zhou](https://xzhou.me)<br>
-> Arxiv 2024
+> CVPR 2025
 
 ![teaser](assets/teaser.png)
+
+### News
+
+- [2025.2.27] 🎉 Our paper is accepted by CVPR 2025.
 
 ### Pipeline
 
