@@ -38,7 +38,7 @@ This work is built upon the following codes, we would like to acknowledge these 
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```
-@article{zhou2024lidarrt,
+@inproceedings{zhou2024lidarrt,
     title={{LiDAR-RT}: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation},
     author={Zhou, Chenxu and Fu, Lvchang and Peng, Sida and Yan, Yunzhi and Zhang, Zhanhua and Chen, Yong and Xia, Jiazhi and Zhou, Xiaowei},
     booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
