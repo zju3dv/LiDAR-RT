@@ -41,7 +41,7 @@ If you find this code useful for your research, please use the following BibTeX 
 @article{zhou2024lidarrt,
     title={{LiDAR-RT}: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation},
     author={Zhou, Chenxu and Fu, Lvchang and Peng, Sida and Yan, Yunzhi and Zhang, Zhanhua and Chen, Yong and Xia, Jiazhi and Zhou, Xiaowei},
-    journal={arXiv preprint arXiv:2412.15199},
-    year={2024}
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    year={2025}
 }
 ```
