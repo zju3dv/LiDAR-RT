@@ -1,0 +1,28 @@
+seed: 1
+detect_anomaly: True
+
+model:
+  white_background: False
+  
+pipe:
+  convert_SHs_python: False
+  compute_cov3D_python: False
+  debug: False
+  debug_from: False
+
+opt:
+  position_lr_init: 0.00016
+  position_t_lr_init: -1.0
+  position_lr_final: 0.0000016
+  position_lr_delay_mult: 0.01
+  feature_lr: 0.0025
+  opacity_lr: 0.05
+  scaling_lr: 0.005
+  rotation_lr: 0.001
+  final_prune_from_iter: -1
+  sh_increase_interval: 1000
+  lambda_dssim: 0.2
+  lambda_distortion: 0.0
+
+  
+

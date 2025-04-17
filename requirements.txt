@@ -1,0 +1,56 @@
+# utils
+tqdm
+termcolor
+rich
+h5py
+ujson
+addict
+psutil
+prwlock
+ruamel.yaml
+pyyaml
+pdbr
+
+# pytorch
+# refer to https://pytorch.org/get-started/locally for specific version
+# torch
+# torchvision
+# torchaudio
+timm
+torchmetrics
+tensorboard
+tensorboardX
+lpips
+
+# image
+imgviz
+scikit-image
+opencv-python
+imageio
+imageio-ffmpeg
+pillow
+matplotlib
+
+# numerical
+scipy
+sympy
+numpy<2.0.0
+einops # Flexible and powerful tensor operations
+
+# 3d vision
+trimesh
+plyfile
+pycolmap
+open3d
+pyntcloud
+pymeshlab
+kornia # Geometric Computer Vision Library
+icosphere
+
+# tensorflow
+tensorflow
+protobuf==3.20.3
+
+# extensions
+submodules/diff-lidar-tracer
+submodules/simple-knn

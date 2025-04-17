@@ -1,0 +1,6 @@
+[submodule "submodules/simple-knn"]
+	path = submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "submodules/diff-lidar-tracer"]
+	path = submodules/diff-lidar-tracer
+	url = git@github.com:lllcccfff/diff-lidar-tracer.git

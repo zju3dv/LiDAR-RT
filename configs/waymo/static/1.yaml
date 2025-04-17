@@ -1,0 +1,9 @@
+parent_config: "configs/waymo/waymo_base.yaml"
+source_dir: "data/waymo/static/1"
+
+frame_length: [1, 50]
+eval_frames: [10, 20, 30, 40]
+
+scene_id: ws1
+
+dynamic: False

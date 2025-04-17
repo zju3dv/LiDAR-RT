@@ -1,0 +1,28 @@
+[project]
+name = "LiDAR-RT"
+version = "0.1.0"
+description = "LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation"
+authors = [{ name = "cxzhou35", email = "cxzhou35@zju.edu.cn" }]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+[project.urls]
+homepage = "https://zju3dv.github.io/lidar-rt"
+
+[tool.pyright]
+exclude = ["**/__pycache__", "data", "output"]
+
+reportMissingImports = "warning"
+reportMissingTypeStubs = false
+reportPrivateImportUsage = false
+
+[tool.isort]
+profile = "hug"
+skip = [".gitignore"]
+length_sort = true
+lines_between_sections = 0
+lines_after_imports = 1

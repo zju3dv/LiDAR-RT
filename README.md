@@ -1,30 +1,47 @@
+<div align="center">
+
 # LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation
 
-### [Project Page](https://zju3dv.github.io/lidar-rt) | [Paper](https://zicx.top/projects/lidar-rt/files/main_paper_with_supp.pdf) | [Arxiv](https://arxiv.org/abs/2412.15199)
 
-<!-- ![python](https://img.shields.io/github/languages/top/zju3dv/LiDAR-RT)
-![star](https://img.shields.io/github/stars/zju3dv/LiDAR-RT)
-[![license](https://img.shields.io/badge/license-zju3dv-white)](LICENSE) -->
+[**Chenxu Zhou***](https://github.com/cxzhou35) · [**Lvchang Fu***](https://github.com/lllcccfff) · [**Sida Peng**<sup>&dagger;</sup>](https://pengsida.net/) · [**Yunzhi Yan**](https://yunzhiy.github.io/) · [**Zhanhua Zhang**](https://zju3dv.github.io/lidar-rt)
+<br>
+[**Yong Chen**](https://zju3dv.github.io/lidar-rt) · [**Jiazhi Xia**](https://www.xiajiazhi.com/) · [**Xiaowei Zhou**](https://xzhou.me)
+<br>
+CVPR 2025
 
-> LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation<br>
-> [Chenxu Zhou*](https://github.com/cxzhou35), [Lvchang Fu*](https://github.com/lllcccfff), [Sida Peng](https://pengsida.net/), [Yunzhi Yan](https://yunzhiy.github.io/), [Zhanhua Zhang](https://zju3dv.github.io/lidar-rt), [Yong Chen](https://zju3dv.github.io/lidar-rt), [Jiazhi Xia](https://www.xiajiazhi.com/), [Xiaowei Zhou](https://xzhou.me)<br>
-> CVPR 2025
+[![arXiv](https://img.shields.io/badge/arXiv-2412.15199-%23B42F2D?style=flat&logo=arxiv&logoSize=auto)](https://arxiv.org/abs/2412.15215)
+[![Safari](https://img.shields.io/badge/Project_Page-LiDAR--RT-green?style=flat&logo=safari&logoSize=auto)](https://zju3dv.github.io/lidar-rt)
+[![Google Drive](https://img.shields.io/badge/Drive-Dataset-4285F4?logo=googledrive&logoColor=fff)](#todo)
+[![Google Drive](https://img.shields.io/badge/Drive-Checkpoint-orange?logo=googledrive&logoColor=fff)](#todo)
+</div>
 
 ![teaser](assets/teaser.png)
 
-### News
+## 📜 News
 
+- [2025.4.17] The training and evaluation code has been released.
 - [2025.2.27] 🎉 Our paper is accepted by CVPR 2025.
 
-### Pipeline
+## ⚒️ Method
 
 ![pipeline](assets/pipeline.png)
 
-### Codes
+## 📦 Installation
 
-🥳 Stay tuned for the release of the code.
+Please refer to [INSTALL.md](./docs/INSTALL.md) for detailed installation instructions.
 
-### Acknowledgments
+1. [Environment Setup](./docs/INSTALL.md#environment-setup)
+2. [Data Preparation](./docs/INSTALL.md#data-preperation)
+
+## 🚀 Training
+
+Please refer to [TRAIN.md](./docs/TRAIN.md) for quick start of training.
+
+## 🔭 Evaluation
+
+Please refer to [EVAL.md](./docs/EVAL.md) for evaluation and visualization.
+
+## ❤️ Acknowledgments
 
 This work is built upon the following codes, we would like to acknowledge these great works.
 
@@ -33,7 +50,7 @@ This work is built upon the following codes, we would like to acknowledge these 
 - [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/)
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://github.com/graphdeco-inria/gaussian-splatting)
 
-### Citation
+## 📝 Citation
 
 If you find this code useful for your research, please use the following BibTeX entry.
 
@@ -45,3 +62,7 @@ If you find this code useful for your research, please use the following BibTeX 
     year={2025}
 }
 ```
+
+## 💌 Contact
+
+If you have any question, please feel free to contact [Chenxu Zhou](mailto:cxzhou35@zju.edu.cn) or Github issues.

@@ -1,0 +1,9 @@
+parent_config: "configs/kitti360/kitti_base.yaml"
+
+frame_length: [1538, 1601]
+eval_frames: [1551, 1564, 1577, 1590]
+
+scene_id: ks1
+
+dynamic: False
+

@@ -1,0 +1,9 @@
+parent_config: "configs/waymo/waymo_base.yaml"
+source_dir: "data/waymo/dynamic/4"
+
+frame_length: [148, 197]
+eval_frames: [158, 168, 178, 197]
+
+scene_id: wd4
+
+dynamic: True

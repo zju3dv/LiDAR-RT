@@ -1,0 +1,58 @@
+parent_config: configs/base.yaml
+
+model_dir: "output"
+task_name: default
+exp_name: test
+
+testing_iterations: 1000
+saving_iterations: [15000, 20000, 25000, 30000]
+visual_interval: 1000
+
+model:
+  voxel_size: 0.15
+  bkgd_extent_factor : 3
+  object_extent_factor: 4
+  obj_pt_num: 10_000
+  dimension: 2
+  sh_degree: 3
+
+opt:
+  iterations: 30_000
+  position_lr_max_steps: 30_000
+
+  densification_interval: 100
+  opacity_reset_interval: 3000
+  densify_from_iter: 500
+  densify_until_iter: 15_000
+  densify_until_num_points: -1
+
+  densify_use_absgrads: False
+  densify_scale_threshold: 0.0002
+  densify_grad_threshold: 0.0002
+  densify_weight_threshold: 0.0
+  prune_size_threshold: 0.1
+  thresh_opa_prune: 0.003
+
+  lambda_normal: 0.00
+  lambda_cd: 0.01
+  lambda_depth_l1: 0.1
+  lambda_intensity_l1: 0.85
+  lambda_intensity_l2: 0.0
+  lambda_intensity_dssim: 0.15
+  lambda_raydrop_bce: 0.01
+  lambda_reg: 0.01
+  use_rayhit: True
+
+  use_normal_init: True
+  use_voxel_init: True
+
+
+refine:
+  use_refine: True
+  use_spatial: True
+  use_rot: False
+
+  epochs: 400
+  batch_size: 16
+  lr: 0.001
+  lambda_raydrop_bce: 0.01
