@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 #### Data Structure
 
-You need to download the raw .tfrecord file from the [official website](https://console.cloud.google.com/storage/browser/waymo_open_dataset_v_1_4_3) (Waymo Perception Dataset V1.4.3), then please use the following structure to organize the data.
+You need to download the raw .tfrecord file from the [official website](https://console.cloud.google.com/storage/browser/waymo_open_dataset_v_1_4_3) (Waymo Perception Dataset V1.4.3), or from our [Google Drive](https://drive.google.com/file/d/1Y3gfleG9Mo9ZP7WPE65-P8NnvCRUYwVl/view), then please use the following structure to organize the data.
 
 ```
 $ROOT/data/waymo
