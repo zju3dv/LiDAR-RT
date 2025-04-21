@@ -1,6 +1,9 @@
 <div align="center">
 
-![lidar-rt-logo](./assets/logo.svg)
+<a href=https://zju3dv.github.io/lidar-rt/>
+    <img src="assets/logo.svg" alt="logo" width="70%" align="center"/>
+</a>
+
 # LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation
 
 [**Chenxu Zhou***](https://github.com/cxzhou35) · [**Lvchang Fu***](https://github.com/lllcccfff) · [**Sida Peng**<sup>&dagger;</sup>](https://pengsida.net/) · [**Yunzhi Yan**](https://yunzhiy.github.io/) · [**Zhanhua Zhang**](https://zju3dv.github.io/lidar-rt)
