@@ -14,7 +14,7 @@
 <br>
 CVPR 2025
 
-[![arXiv](https://img.shields.io/badge/arXiv-2412.15199-%23B42F2D?style=flat&logo=arxiv&logoSize=auto)](https://arxiv.org/abs/2412.15215)
+[![arXiv](https://img.shields.io/badge/arXiv-2412.15199-%23B42F2D?style=flat&logo=arxiv&logoSize=auto)](https://arxiv.org/abs/2412.15199)
 [![Safari](https://img.shields.io/badge/Project_Page-LiDAR--RT-green?style=flat&logo=safari&logoSize=auto)](https://zju3dv.github.io/lidar-rt)
 [![Google Drive](https://img.shields.io/badge/Drive-Dataset-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/file/d/1Y3gfleG9Mo9ZP7WPE65-P8NnvCRUYwVl/view)
 <!-- [![Google Drive](https://img.shields.io/badge/Drive-Checkpoint-orange?logo=googledrive&logoColor=fff)](#todo) -->
