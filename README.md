@@ -8,7 +8,7 @@
 
 # LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation
 
-[**Chenxu Zhou***](https://github.com/cxzhou35) · [**Lvchang Fu***](https://github.com/lllcccfff) · [**Sida Peng**<sup>&dagger;</sup>](https://pengsida.net/) · [**Yunzhi Yan**](https://yunzhiy.github.io/) · [**Zhanhua Zhang**](https://zju3dv.github.io/lidar-rt)
+[**Chenxu Zhou***](https://zicx.top) · [**Lvchang Fu***](https://github.com/lllcccfff) · [**Sida Peng**<sup>&dagger;</sup>](https://pengsida.net/) · [**Yunzhi Yan**](https://yunzhiy.github.io/) · [**Zhanhua Zhang**](https://zju3dv.github.io/lidar-rt)
 <br>
 [**Yong Chen**](https://zju3dv.github.io/lidar-rt) · [**Jiazhi Xia**](https://www.xiajiazhi.com/) · [**Xiaowei Zhou**](https://xzhou.me)
 <br>
