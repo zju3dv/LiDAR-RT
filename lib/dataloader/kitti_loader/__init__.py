@@ -237,6 +237,8 @@ def load_kitti_raw(base_dir, args):
 
         if frame in ego2world.keys():
             last_ego2world = ego2world[frame]
+        range_image_r1[range_image_r1 == -1] = 0
+        range_image_r2[range_image_r2 == -1] = 0
         lidar.add_frame(frame, last_ego2world, range_image_r1, range_image_r2)
 
     lidar_bbox = load_lidar_bbox(
