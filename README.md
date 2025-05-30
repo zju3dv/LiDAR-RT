@@ -72,3 +72,6 @@ If you find this code useful for your research, please use the following BibTeX 
 ## 💌 Contact
 
 If you have any question, please feel free to contact [Chenxu Zhou](mailto:cxzhou35@zju.edu.cn) or Github issues.
+
+## ⭐ Star History
+[![Stargazers over time](https://starchart.cc/zju3dv/LiDAR-RT.svg?variant=adaptive)](https://starchart.cc/zju3dv/LiDAR-RT)
