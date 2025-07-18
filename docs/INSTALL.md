@@ -11,10 +11,11 @@
 
 Our code is tested on NVIDIA 4090 GPU, `Ubuntu 24.04` with `CUDA 12.1` and `Python 3.11.9`.
 
-Thanks to [@cqf7419](https://github.com/cqf7419) for [testing](https://github.com/zju3dv/LiDAR-RT/issues/19), the following two conditions are necessary:
-
-- An appropriate version of CMake can reduce compilation errors. Version 3.24.1 was successful, whereas 3.29 and 4.0 failed.
-- Suitable GPU drivers and settings are required: GPU drivers after version 530 are functional. Additionally, since the cluster relies on Docker images, it's necessary to configure the env with NVIDIA_DRIVER_CAPABILITIES=compute,graphics
+>[!Warning]
+> Thanks to [@cqf7419](https://github.com/cqf7419) for [testing](https://github.com/zju3dv/LiDAR-RT/issues/19), the following two conditions are necessary:
+> 
+> - An appropriate version of CMake can reduce compilation errors. Version 3.24.1 was successful, whereas 3.29 and 4.0 failed.
+> - Suitable GPU drivers and settings are required: GPU drivers after version 530 are functional. Additionally, since the cluster relies on Docker images, it's necessary to configure the env with NVIDIA_DRIVER_CAPABILITIES=compute,graphics
 
 ```bash
 # Clone the repo
